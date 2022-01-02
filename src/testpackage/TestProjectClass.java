@@ -7,6 +7,8 @@ public class TestProjectClass {
 		System.out.println("Hello Test!\n");
 		System.out.println("1\n");
 		System.out.println("1 branch\n");
+		System.out.println("stash");
+		System.out.println("stash 2");
 	}
 
 }
